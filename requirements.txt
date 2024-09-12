@@ -1,0 +1,16 @@
+
+ACCESO A LA API GOOGLE EARTH ENGINE:
+
+Para poder ejecutar correctamente el código en 
+el que se extraen las imágenes del API de google 
+earth engine, debe de ingresar la llave de nuestro
+proyecto, la cual es:
+
+key project = magnificent-ray-435321
+
+Igualmente, una vez que se ha accedido al proyecto
+de google, en el primer chunck del notebook está 
+el comentario de #permisos y key , en el apartado
+de project debe ingresarse la misma key 
+
+
